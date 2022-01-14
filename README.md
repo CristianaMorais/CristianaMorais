@@ -23,7 +23,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <p> 😄 Pronouns: she/her </p>
-  <p> ⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
-</div>
+😄 Pronouns: she/her </p>
+⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
+
+##
