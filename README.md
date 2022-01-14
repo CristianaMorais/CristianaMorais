@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
 </div>
 
 <!--
