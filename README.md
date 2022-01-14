@@ -27,3 +27,7 @@
 ⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
 
 ##
+
+<div style="display: inline_block" align="center"><br>
+  ![Snake animation](https://github.com/CristianaMorais/CristianaMorais/blob/output/github-contribution-grid-snake.svg)
+</div>
