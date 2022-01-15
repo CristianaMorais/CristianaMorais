@@ -27,6 +27,7 @@
   
 🔭 I’m currently working in python </p>
 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
+📫 How to reach me: cristiana_morais_14@hotmail.com
 
 ## 
 
