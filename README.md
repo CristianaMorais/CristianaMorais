@@ -39,7 +39,6 @@
 ##### :computer: The first contact I had with programming was little at school but I started to increase my taste for programming in college </p>
 
 #### Fun facts:
-
 <div style="display: inline_block"><br>
   🎼 I can play saxophone, clarinet and a little of piano </p>
   🥋 I practiced judo from 10 to 11 years old </p>
