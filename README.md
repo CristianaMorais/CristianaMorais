@@ -28,7 +28,7 @@
 🔭 I’m currently working in python </p>
 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
 
-<div>
+<div style="display: inline_block;">
   <img align="right" alt="ProfileViews-Cris" height="27" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
 </div>
 
