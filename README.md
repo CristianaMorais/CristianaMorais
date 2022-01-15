@@ -6,8 +6,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianaMorais&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
+  
 #### Top Tecnologies
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="Cris-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cris-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
@@ -19,13 +20,16 @@
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cris-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Cris-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="right" alt="Cris-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
+  <img align="right" alt="Cris-Pic" height="150" style="border-radius:10px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
 </div>
 
 ##
 <div style="display: inline_block"><br>
   🔭 I’m currently working in python </p>
   😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
+</div>
+
+<div style="display: inline_block"><br>
   <img align="right" alt="ProfileViews-Cris" height="27" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
 </div>
 
