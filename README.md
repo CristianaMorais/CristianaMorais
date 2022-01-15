@@ -21,9 +21,8 @@
 <img align="right" alt="Cris-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
 
 ##
-🔭 I’m currently working in python </p>
-😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
-⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
+- 🔭 I’m currently working in python </p>
+- 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
 <img align="right" alt="ProfileViews-Cris" height="25" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
 
 <details>
@@ -31,9 +30,15 @@
   More stuff about me
 </summary>
 
-<br >
+##### :computer: The first contact I had with programming was little at school but I started to increase my taste for programming in college </p>
+
+#### Fun facts:
   
-I need to add in the future!
+- 🎼 I can play saxophone, clarinet and a little of piano
+- 🥋 I practiced judo from 10 to 11 years old
+- 🏊‍♀️ Swimming is my passion, I started as a child and came back for the love of the sport
+- ⚡ Harry Potter it's my favourite movie
+- 🧐 I think pop figures are winning my heart, they are my new passion
 
 </details>
 
