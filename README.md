@@ -7,8 +7,8 @@
 </div>
   
   
-#### Top Tecnologies
-<div style="display: inline_block;"><br>
+<div style="display: inline_block;">
+  <h5> Top Tecnologies </h5>
   <img align="center" alt="Cris-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cris-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
@@ -24,10 +24,10 @@
 </div>
 
 ##
-<div style="display: inline_block"><br>
-  🔭 I’m currently working in python </p>
-  😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
-</div>
+  
+🔭 I’m currently working in python </p>
+😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
+
 
 <div style="display: inline_block"><br>
   <img align="right" alt="ProfileViews-Cris" height="27" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
