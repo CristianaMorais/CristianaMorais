@@ -21,12 +21,19 @@
 <img align="right" alt="Cris-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
 
 ##
-<div style="display: inline_block"><br>
-  <p> 🔭 I’m currently working in python </p>
-  <p> 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
-  <p> ⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
-  <img align="right" alt="ProfileViews-Cris" height="25" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
-</div>
+🔭 I’m currently working in python </p>
+😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
+⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
+<img align="right" alt="ProfileViews-Cris" height="25" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+  
+I need to add in the future!
 
 ##
 
