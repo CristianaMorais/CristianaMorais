@@ -29,6 +29,8 @@
   <img align="right" alt="ProfileViews-Cris" height="27" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
 </div>
 
+<br>
+
 <details>
 <summary>
   More stuff about me
@@ -37,12 +39,15 @@
 ##### :computer: The first contact I had with programming was little at school but I started to increase my taste for programming in college </p>
 
 #### Fun facts:
-  
-- 🎼 I can play saxophone, clarinet and a little of piano
-- 🥋 I practiced judo from 10 to 11 years old
-- 🏊‍♀️ Swimming is my passion, I started as a child and came back for the love of the sport
-- ⚡ Harry Potter it's my favourite movie
-- 🧐 I think pop figures are winning my heart, they are my new passion
+
+<div style="display: inline_block"><br>
+  🎼 I can play saxophone, clarinet and a little of piano </p>
+  🥋 I practiced judo from 10 to 11 years old </p>
+  🏊‍♀️ Swimming is my passion, I started as a child and came back for the love of the sport </p>
+  ⚡ Harry Potter it's my favourite movie </p>
+  🧐 I think pop figures are winning my heart, they are my new passion </p>
+  🎮 My favorite games are Genshin and League of legends but I've played a little bit of everything </p>
+</div>
 
 </details>
 
