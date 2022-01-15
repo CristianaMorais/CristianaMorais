@@ -22,9 +22,9 @@
 </div>
 
 ##
-
-😄 Pronouns: she/her </p>
-⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
+  <p> 🔭 I’m currently working on python </p>
+  <p> 😄 Pronouns: she/her </p>
+  <p> ⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
 
 ##
 
