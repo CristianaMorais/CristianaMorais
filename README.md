@@ -22,9 +22,12 @@
 </div>
 
 ##
+<div style="display: inline_block"><br>
   <p> 🔭 I’m currently working in python </p>
   <p> 😄 Pronouns: she/her </p>
   <p> ⚡ Fun fact: I can play saxophone, clarinet and a little of piano </p>
+  <img align="right" alt="ProfileViews-Cris" height="25" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais" >
+</div>
 
 ##
 
