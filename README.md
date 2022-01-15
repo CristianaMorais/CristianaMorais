@@ -35,6 +35,8 @@
   
 I need to add in the future!
 
+</details>
+
 ##
 
 ![Snake animation](https://github.com/CristianaMorais/CristianaMorais/blob/output/github-contribution-grid-snake.svg)
