@@ -47,7 +47,7 @@
   🏊‍♀️ Swimming is my passion, I started as a child and came back for the love of the sport </p>
   ⚡ Harry Potter it's my favourite movie </p>
   🧐 I think pop figures are winning my heart, they are my new passion </p>
-  🎮 My favorite games are Genshin and League of legends but I've played a little bit of everything </p>
+  🎮 My favorite games are Genshin Impact and League of Legends but i've played a little bit of everything </p>
 </div>
 </details>
 
