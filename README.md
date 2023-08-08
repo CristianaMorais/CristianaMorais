@@ -1,4 +1,4 @@
-## Hi there 👋 i'm Cristiana Morais, and I'm a programmer!
+## Hi there 👋 i'm Cristiana Morais, and I'm a Developer!
 
 <div align="center">
   <a href="https://github.com/CristianaMorais">
