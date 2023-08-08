@@ -17,10 +17,13 @@
   <img align="center" alt="Cris-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Cris-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Cris-Android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img align="right" margin-top=10px alt="Cris-Pic" height="150" style="border-radius:10px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
 </div>
 
 ##
+
+<img align="right" margin-top=10px alt="Cris-Pic" height="150" style="border-radius:10px;" src="https://i.picasion.com/pic91/cf79c4af009fe2a6e0f8323f693534c5.gif">
+  
+![](https://komarev.com/ghpvc/?username=CristianaMorais&color=blueviolet)
   
 🔭 I’m currently working in R </p>
 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
@@ -28,11 +31,10 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiana_morais_14@hotmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiana-silva-1a9562214)
 
-## 
 
+##
 <details>
 <summary>
-  <img align="right" alt="ProfileViews-Cris" height="27" style="border-radius:10px;" src="https://gpvc.arturio.dev/CristianaMorais">
   More stuff about me
 </summary>
 
