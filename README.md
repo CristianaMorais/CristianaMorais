@@ -1,4 +1,4 @@
-## Hi there 👋 i'm Cristiana Morais, and I'm a Software Engineer!
+## Hi there 👋 i'm Cristiana Morais, and I'm a Developer!
 
 <div align="center">
   <a href="https://github.com/CristianaMorais">
@@ -25,7 +25,7 @@
   
 ![](https://komarev.com/ghpvc/?username=CristianaMorais&color=blueviolet)
   
-🔭 I’m currently working in R </p>
+🔭 I’m currently working in Java and Angular</p>
 😄 Pronouns: she/her, Cristiana Morais, Cristiana Silva </p>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiana_morais_14@hotmail.com)
