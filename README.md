@@ -13,9 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=CristianaMorais&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianaMorais&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CristianaMorais&icon=0&color=12)](https://visitcount.itsvg.in)
 
