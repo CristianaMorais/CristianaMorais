@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Cristiana!
 
-# 💫 About Me:
 👩🏻‍💻 Software Engineer working on Java and Angular<br>👩🏻‍🎓 I completed a Master's degree in Network Engineering and Computer Systems  at the University of Oporto, Portugal<br>💭 Currently learning Go lang
 
 
